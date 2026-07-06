@@ -23,3 +23,12 @@ To maintain industry-standard clean code principles, the project uses a strictly
 ├── main.py                            # Core pipeline execution script
 ├── README.md                          # Repository documentation & user guide
 └── requirements.txt                   # Software package dependencies
+
+
+## 📊 Visualizations Preview
+
+### Categorical Sales Stream Breakdowns
+![Product Sales Bar Chart](visualizations/product_sales_bar.png)
+
+### Monthly Volume Distribution Dynamics
+![Monthly Sales Distribution](visualizations/Monthly_Sales_Distribution.png)
