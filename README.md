@@ -32,3 +32,16 @@ To maintain industry-standard clean code principles, the project uses a strictly
 
 ### Monthly Volume Distribution Dynamics
 ![Monthly Sales Distribution](visualizations/Monthly_Sales_Distribution.png)
+
+
+## 🧪 Testing Evidence & Console Logs
+
+```text
+--- Data Loaded Successfully ---
+Data is perfectly clean! No missing values found.
+
+Total Sales: $170000
+Total Profit: $39000
+
+Both charts have been successfully saved to the 'visualizations/' folder!
+The final report has been successfully saved to 'report/insights.txt'!
